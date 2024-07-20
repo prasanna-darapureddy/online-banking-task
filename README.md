@@ -1,5 +1,23 @@
 # Getting Started with Create React App
 
+const initialUsersList = [
+{
+id: 1,
+userName: 'user1',
+pin: '0123',
+},
+{
+id: 2,
+userName: 'user2',
+pin: '4567',
+},
+{
+id: 3,
+userName: 'user3',
+pin: '8901',
+}
+]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
